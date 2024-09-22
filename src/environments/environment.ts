@@ -5,10 +5,10 @@
 export const environment = {
   production: false,
   api: {
-    server: 'http://localhost:8000/',
-    mapKey: '',
+    server: 'https://realestatedakhlabackend.onrender.com',
+    mapKey: '5f977ba5-85a2-475a-88f6-90510a5a706f',
     googleAuthClientId: '',
-    webSocketUrl: "ws://localhost:8000/websocket"
+    webSocketUrl: "ws://realestatedakhlabackend.onrender.com"
   }
 };
 
